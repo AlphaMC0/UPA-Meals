@@ -5,13 +5,13 @@ There are three types of meals.
 
 **1. Broccoli Cauliflower Casserole**
 
-**- Ingredients**
+**Ingredients**
 - Broccoli
 - Cauliflower
 - Onion
 - Artifical Flavoring Ingredients
 
-**- Cooking Process**
+**Cooking Process**
 - Put the Ingredients in the 3 x 3 grid and the AFI in the next box
 - Wait for 1min for the meal to finish cooking
 - Remove the meal and the AFI
