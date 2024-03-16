@@ -1,6 +1,7 @@
 # Meals
 
 There are three types of meals.
+
 (The AFI has 3 uses before it is used up)
 
 **1. Broccoli Cauliflower Casserole** **3 star Meal**
