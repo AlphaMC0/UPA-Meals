@@ -4,13 +4,13 @@ There are three types of meals.
 
 (The AFI has 3 uses before it is used up)
 
-**1. Broccoli Cauliflower Casserole** **3 star Meal**
+**1. Broccoli Cauliflower Casserole** **3 Star Meal**
 
 **Ingredients**
-- Broccoli
-- Cauliflower
-- Onion
-- Artifical Flavoring Ingredients
+- Broccoli x3
+- Cauliflower x3
+- Onion x3
+- Artifical Flavoring Ingredients x1/3
 
 **Cooking Process**
 - Put the Ingredients in the 3 x 3 grid and the AFI in the next box
@@ -19,12 +19,12 @@ There are three types of meals.
 
 **Heals for 20 hearts**
 
-**2. Balsamic Roasted Cauliflower**
+**2. Balsamic Roasted Cauliflower** **4 Star Meal**
 
 **Ingredients**
-- Cauliflower
-- Marjoram
-- Artifical Flavoring Ingredients
+- Cauliflower x6
+- Marjoram x4
+- Artifical Flavoring Ingredients x1/3
 
 **Cooking Process**
 - Put the Ingredients in the 3 x 3 grid and the AFI in the next box
@@ -33,13 +33,13 @@ There are three types of meals.
 
 **Heals for 40 hearts**
 
-**3. Strawberry Spinach Salad**
+**3. Strawberry Spinach Salad** **5 Star Meal**
 
 **Ingredients**
-- Onions
-- Spinach
-- Strawberry
-- Artifical Flavoring Ingredients
+- Onions x10
+- Spinach x10
+- Strawberry x10
+- Artifical Flavoring Ingredients x1/3
 
 **Cooking Process**
 - Put the Ingredients in the 3 x 3 grid and the AFI in the next box
